@@ -1,0 +1,17 @@
+mat-card {
+  padding: 2rem;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+mat-spiner {
+  margin: auto;
+}
+
+a{
+  margin-top: 1rem;
+  color: #f44336;
+  text-decoration: none;
+}
